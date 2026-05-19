@@ -14,7 +14,11 @@ st.markdown("**Voting Classifier** (Gradient Boosting + HistGB + LightGBM + XGBo
 # Load model
 @st.cache_resource
 def load_model():
-    return joblib.load("model.pkl")
+    try:
+        return joblib.load("model.pkl")
+    except Exception as e:
+        st.error(f"Failed to load model: {e}")
+        st.stop()
 
 model = load_model()
 
