@@ -39,22 +39,6 @@ Helps credit card companies:
 
 ---
 
-## 📸 Screenshots
-
-![App Interface](screenshots/app_main.png)
-*<img width="1913" height="884" alt="image" src="https://github.com/user-attachments/assets/05b0bbae-c819-4f86-9edc-fcdb25b9e650" />*
-
-![Prediction Example](screenshots/prediction_high_risk.png)
-*High churn risk prediction with recommendation*
-
-![Low Risk Example](screenshots/prediction_low_risk.png)
-*Low churn risk prediction*
-
-*(Add your actual screenshots here after taking them)*
-
-
----
-
 ## 🗂️ Dataset
 
 - **Source**: [Kaggle Credit Card Customers](https://www.kaggle.com/datasets/thedevastator/predicting-credit-card-customer-attrition-with-m)
@@ -80,5 +64,5 @@ credit-card-churn-prediction-app/
 ├── model.pkl               # Trained Voting Classifier (~ ensemble)
 ├── requirements.txt
 ├── README.md
-├── notebooks/              # Original EDA + modeling
-└── data/                   # Sample data (optional)
+├── notebooks/              # Modeling
+└── data/                   # Sample data 
