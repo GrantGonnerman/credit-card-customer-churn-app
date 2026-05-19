@@ -1,6 +1,9 @@
 # Credit Card Churn Predictor
 
-**🔗 Live Demo:** [https://credit-card-customer-churn-app-grantg.streamlit.app/](https://credit-card-customer-churn-app-grantg.streamlit.app/)
+## 🔗 Links
+
+- **Live Application** → [https://credit-card-customer-churn-app-grantg.streamlit.app/](https://credit-card-customer-churn-app-grantg.streamlit.app/)
+- **Full Project Repository** (Detailed Analysis + Reports) → [Credit Card Customer Attrition Prediction](https://github.com/GrantGonnerman/credit-card-customer-attrition)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
