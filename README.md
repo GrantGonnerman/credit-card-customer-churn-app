@@ -79,7 +79,7 @@ credit-card-customer-churn-app/
 ├── notebooks/              # Full modeling notebooks
 ├── data/                   # Sample data (optional)
 └── screenshots/
-
+```
 ---
 
 ## 🚀 How to Run Locally
@@ -89,3 +89,10 @@ cd credit-card-customer-churn-app
 
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+Built by Grant Gonnerman
+
+---
+
