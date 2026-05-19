@@ -24,7 +24,7 @@ The **[full project repository](https://github.com/GrantGonnerman/credit-card-cu
 - **Model**: Soft Voting Classifier (Gradient Boosting + HistGradientBoosting + LightGBM + XGBoost + CatBoost)
 - **Feature Selection**: RFECV (5-fold, F1-score) – kept features selected ≥90% of the time
 - **Feature Engineering**: 4 custom interaction terms
-- **Performance**: 98% Accuracy | 93% Recall on Churn class
+- **Performance**: 97% Accuracy | 90% Recall on Churn class
 - **Deployment**: Live Streamlit web app
 
 ---
