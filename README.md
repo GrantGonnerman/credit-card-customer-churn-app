@@ -1,7 +1,6 @@
 # Credit Card Churn Predictor
 
-**Live App:** [→ Open the Churn Predictor](https://your-app-name.streamlit.app)  
-*(Link will be added after deployment)*
+**Live Demo:** [https://credit-card-customer-churn-app-grantg.streamlit.app/](https://credit-card-customer-churn-app-grantg.streamlit.app/)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
