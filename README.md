@@ -79,3 +79,13 @@ credit-card-customer-churn-app/
 ├── notebooks/              # Full modeling notebooks
 ├── data/                   # Sample data (optional)
 └── screenshots/
+
+---
+
+## 🚀 How to Run Locally
+
+git clone https://github.com/GrantGonnerman/credit-card-customer-churn-app.git
+cd credit-card-customer-churn-app
+
+pip install -r requirements.txt
+streamlit run app.py
