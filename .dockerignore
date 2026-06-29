@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.git/
+.vscode/
+
+notebooks/
+
+screenshots/
+
+data/
+
+.env
+
+venv/
+.venv
