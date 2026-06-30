@@ -1,7 +1,11 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import sys
+import importlib.util
 
+print("Python:", sys.version)
+print("joblib spec:", importlib.util.find_spec("joblib"))
 st.set_page_config(
     page_title="Credit Card Churn Predictor",
     layout="wide",
