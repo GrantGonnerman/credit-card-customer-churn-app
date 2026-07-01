@@ -4,14 +4,6 @@ import joblib
 import sys
 import importlib.util
 
-print("Python:", sys.version)
-print("joblib spec:", importlib.util.find_spec("joblib"))
-st.set_page_config(
-    page_title="Credit Card Churn Predictor",
-    layout="wide",
-    page_icon="🔮"
-)
-
 st.title("🔮 Credit Card Customer Churn Predictor")
 st.markdown("**Voting Classifier** (Gradient Boosting + HistGB + LightGBM + XGBoost + CatBoost) — Data Science Portfolio Project")
 
