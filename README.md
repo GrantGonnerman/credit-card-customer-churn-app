@@ -14,9 +14,7 @@
 
 **Application:** http://54.159.126.201:8501/
 
-> **Note:** This application is hosted on an AWS EC2 instance for portfolio purposes. To minimize cloud costs, the instance may be stopped when not actively being demonstrated. If the application is unavailable, please see the streamlit link, screenshots below, or the deployment architecture.
-
-**🔗 Live Demo:** [https://credit-card-customer-churn-app-grantg.streamlit.app/](https://credit-card-customer-churn-app-grantg.streamlit.app/)
+> **Note:** This application is hosted on an AWS EC2 instance for portfolio purposes. To minimize cloud costs, the instance may be stopped when not actively being demonstrated. If the application is unavailable, please see the screenshots below or the deployment architecture.
 
 ---
 
