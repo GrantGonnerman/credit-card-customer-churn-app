@@ -147,7 +147,7 @@ http://localhost:8501
 credit-card-customer-churn-app/
 
 ├── data/
-│   └── Base datasets
+│   └── Base dataset
 │
 ├── notebooks/
 │   └── Model development and experimentation
@@ -155,11 +155,13 @@ credit-card-customer-churn-app/
 ├── screenshots/
 │   └── Application screenshots
 │
+├── models/
+│   └── feature_names.csv
+│   └── model.pkl
+|
 ├── app.py
 ├── Dockerfile
 ├── requirements.txt
-├── feature_names.csv
-├── model.pkl
 └── README.md
 ```
 
